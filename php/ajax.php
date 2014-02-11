@@ -1,5 +1,7 @@
 <?php
 
+//Adding this to see if it is updated to Git and Remote Server
+
 /* Database Configuration. Add your details below */
 
 $dbOptions = array(
