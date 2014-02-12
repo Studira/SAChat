@@ -3,10 +3,10 @@
 /* Database Configuration. Add your details below */
 
 $dbOptions = array(
-	'db_host' => '',
-	'db_user' => '',
-	'db_pass' => '',
-	'db_name' => ''
+	'db_host' => 'sql5.cpt4.host-h.net',
+	'db_user' => 'sachatadmin',
+	'db_pass' => 'Trebuojnai7',
+	'db_name' => 'sachatdb'
 );
 
 /* Database Config End */
